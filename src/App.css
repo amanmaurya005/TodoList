@@ -14,7 +14,7 @@ h1 {
   color: #333;
 }
 
-/* Input + button */
+
 input{
   padding: 10px;
   font-size: 16px;
@@ -39,7 +39,7 @@ input{
   background-color: #0056b3;
 }
 
-/* Task list */
+
 ul {
   list-style: none;
   padding: 0;
